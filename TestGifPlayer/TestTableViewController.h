@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TestTableViewController.h
 //  TestGifPlayer
 //
 //  Created by 王士良 on 2018/4/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TestTableViewController : UITableViewController
 
 @end
-

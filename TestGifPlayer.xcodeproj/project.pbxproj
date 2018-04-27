@@ -8,24 +8,49 @@
 
 /* Begin PBXBuildFile section */
 		6B3C7F962091BAE800EAAA20 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7F952091BAE800EAAA20 /* AppDelegate.m */; };
-		6B3C7F992091BAE800EAAA20 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7F982091BAE800EAAA20 /* ViewController.m */; };
 		6B3C7F9C2091BAE800EAAA20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7F9A2091BAE800EAAA20 /* Main.storyboard */; };
 		6B3C7F9E2091BAEA00EAAA20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7F9D2091BAEA00EAAA20 /* Assets.xcassets */; };
 		6B3C7FA12091BAEA00EAAA20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7F9F2091BAEA00EAAA20 /* LaunchScreen.storyboard */; };
 		6B3C7FA42091BAEA00EAAA20 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FA32091BAEA00EAAA20 /* main.m */; };
+		6B3C7FAD2091BB2700EAAA20 /* TestWebPlayerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FAB2091BB2700EAAA20 /* TestWebPlayerVC.m */; };
+		6B3C7FAE2091BB2700EAAA20 /* TestWebPlayerVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7FAC2091BB2700EAAA20 /* TestWebPlayerVC.xib */; };
+		6B3C7FB22091BB4900EAAA20 /* TestImageViewPlayerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FB02091BB4900EAAA20 /* TestImageViewPlayerVC.m */; };
+		6B3C7FB32091BB4900EAAA20 /* TestImageViewPlayerVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7FB12091BB4900EAAA20 /* TestImageViewPlayerVC.xib */; };
+		6B3C7FB72091BB6200EAAA20 /* TestContentPlayerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FB52091BB6200EAAA20 /* TestContentPlayerVC.m */; };
+		6B3C7FB82091BB6200EAAA20 /* TestContentPlayerVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7FB62091BB6200EAAA20 /* TestContentPlayerVC.xib */; };
+		6B3C7FBB2091BB9300EAAA20 /* TestTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FBA2091BB9300EAAA20 /* TestTableViewController.m */; };
+		6B3C7FBF2091C28000EAAA20 /* test4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7FBE2091C28000EAAA20 /* test4.gif */; };
+		6B3C7FC22091C8AB00EAAA20 /* GifLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FC12091C8AB00EAAA20 /* GifLoadingView.m */; };
+		6B3C7FCC20930D1F00EAAA20 /* ImageFramePlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3C7FCB20930D1F00EAAA20 /* ImageFramePlayerView.m */; };
+		6B3C7FCE209312A200EAAA20 /* test1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B3C7FCD209312A200EAAA20 /* test1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		6B3C7F912091BAE800EAAA20 /* TestGifPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestGifPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B3C7F942091BAE800EAAA20 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6B3C7F952091BAE800EAAA20 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		6B3C7F972091BAE800EAAA20 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6B3C7F982091BAE800EAAA20 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6B3C7F9B2091BAE800EAAA20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6B3C7F9D2091BAEA00EAAA20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B3C7FA02091BAEA00EAAA20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B3C7FA22091BAEA00EAAA20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B3C7FA32091BAEA00EAAA20 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6B3C7FAA2091BB2700EAAA20 /* TestWebPlayerVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestWebPlayerVC.h; sourceTree = "<group>"; };
+		6B3C7FAB2091BB2700EAAA20 /* TestWebPlayerVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestWebPlayerVC.m; sourceTree = "<group>"; };
+		6B3C7FAC2091BB2700EAAA20 /* TestWebPlayerVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestWebPlayerVC.xib; sourceTree = "<group>"; };
+		6B3C7FAF2091BB4900EAAA20 /* TestImageViewPlayerVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestImageViewPlayerVC.h; sourceTree = "<group>"; };
+		6B3C7FB02091BB4900EAAA20 /* TestImageViewPlayerVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestImageViewPlayerVC.m; sourceTree = "<group>"; };
+		6B3C7FB12091BB4900EAAA20 /* TestImageViewPlayerVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestImageViewPlayerVC.xib; sourceTree = "<group>"; };
+		6B3C7FB42091BB6200EAAA20 /* TestContentPlayerVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestContentPlayerVC.h; sourceTree = "<group>"; };
+		6B3C7FB52091BB6200EAAA20 /* TestContentPlayerVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestContentPlayerVC.m; sourceTree = "<group>"; };
+		6B3C7FB62091BB6200EAAA20 /* TestContentPlayerVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestContentPlayerVC.xib; sourceTree = "<group>"; };
+		6B3C7FB92091BB9300EAAA20 /* TestTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestTableViewController.h; sourceTree = "<group>"; };
+		6B3C7FBA2091BB9300EAAA20 /* TestTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestTableViewController.m; sourceTree = "<group>"; };
+		6B3C7FBE2091C28000EAAA20 /* test4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test4.gif; sourceTree = "<group>"; };
+		6B3C7FC02091C8AB00EAAA20 /* GifLoadingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GifLoadingView.h; sourceTree = "<group>"; };
+		6B3C7FC12091C8AB00EAAA20 /* GifLoadingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GifLoadingView.m; sourceTree = "<group>"; };
+		6B3C7FCA20930D1E00EAAA20 /* ImageFramePlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageFramePlayerView.h; sourceTree = "<group>"; };
+		6B3C7FCB20930D1F00EAAA20 /* ImageFramePlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageFramePlayerView.m; sourceTree = "<group>"; };
+		6B3C7FCD209312A200EAAA20 /* test1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +83,25 @@
 		6B3C7F932091BAE800EAAA20 /* TestGifPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				6B3C7FBE2091C28000EAAA20 /* test4.gif */,
+				6B3C7FCD209312A200EAAA20 /* test1.png */,
 				6B3C7F942091BAE800EAAA20 /* AppDelegate.h */,
 				6B3C7F952091BAE800EAAA20 /* AppDelegate.m */,
-				6B3C7F972091BAE800EAAA20 /* ViewController.h */,
-				6B3C7F982091BAE800EAAA20 /* ViewController.m */,
+				6B3C7FC02091C8AB00EAAA20 /* GifLoadingView.h */,
+				6B3C7FC12091C8AB00EAAA20 /* GifLoadingView.m */,
+				6B3C7FCA20930D1E00EAAA20 /* ImageFramePlayerView.h */,
+				6B3C7FCB20930D1F00EAAA20 /* ImageFramePlayerView.m */,
+				6B3C7FAA2091BB2700EAAA20 /* TestWebPlayerVC.h */,
+				6B3C7FAB2091BB2700EAAA20 /* TestWebPlayerVC.m */,
+				6B3C7FAC2091BB2700EAAA20 /* TestWebPlayerVC.xib */,
+				6B3C7FAF2091BB4900EAAA20 /* TestImageViewPlayerVC.h */,
+				6B3C7FB02091BB4900EAAA20 /* TestImageViewPlayerVC.m */,
+				6B3C7FB12091BB4900EAAA20 /* TestImageViewPlayerVC.xib */,
+				6B3C7FB42091BB6200EAAA20 /* TestContentPlayerVC.h */,
+				6B3C7FB52091BB6200EAAA20 /* TestContentPlayerVC.m */,
+				6B3C7FB62091BB6200EAAA20 /* TestContentPlayerVC.xib */,
+				6B3C7FB92091BB9300EAAA20 /* TestTableViewController.h */,
+				6B3C7FBA2091BB9300EAAA20 /* TestTableViewController.m */,
 				6B3C7F9A2091BAE800EAAA20 /* Main.storyboard */,
 				6B3C7F9D2091BAEA00EAAA20 /* Assets.xcassets */,
 				6B3C7F9F2091BAEA00EAAA20 /* LaunchScreen.storyboard */,
@@ -128,9 +168,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B3C7FAE2091BB2700EAAA20 /* TestWebPlayerVC.xib in Resources */,
+				6B3C7FB82091BB6200EAAA20 /* TestContentPlayerVC.xib in Resources */,
 				6B3C7FA12091BAEA00EAAA20 /* LaunchScreen.storyboard in Resources */,
+				6B3C7FCE209312A200EAAA20 /* test1.png in Resources */,
 				6B3C7F9E2091BAEA00EAAA20 /* Assets.xcassets in Resources */,
 				6B3C7F9C2091BAE800EAAA20 /* Main.storyboard in Resources */,
+				6B3C7FB32091BB4900EAAA20 /* TestImageViewPlayerVC.xib in Resources */,
+				6B3C7FBF2091C28000EAAA20 /* test4.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,8 +186,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6B3C7F992091BAE800EAAA20 /* ViewController.m in Sources */,
+				6B3C7FCC20930D1F00EAAA20 /* ImageFramePlayerView.m in Sources */,
 				6B3C7FA42091BAEA00EAAA20 /* main.m in Sources */,
+				6B3C7FAD2091BB2700EAAA20 /* TestWebPlayerVC.m in Sources */,
+				6B3C7FB72091BB6200EAAA20 /* TestContentPlayerVC.m in Sources */,
+				6B3C7FBB2091BB9300EAAA20 /* TestTableViewController.m in Sources */,
+				6B3C7FC22091C8AB00EAAA20 /* GifLoadingView.m in Sources */,
+				6B3C7FB22091BB4900EAAA20 /* TestImageViewPlayerVC.m in Sources */,
 				6B3C7F962091BAE800EAAA20 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +336,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VZWDRCFV2H;
 				INFOPLIST_FILE = TestGifPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +354,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VZWDRCFV2H;
 				INFOPLIST_FILE = TestGifPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
